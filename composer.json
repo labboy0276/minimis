@@ -1,13 +1,12 @@
 {
-    "name": "thinktandem/minimis",
-    "description": "Thinktandem's Minimis Distribution",
+    "name": "labboy0276/minimis",
+    "description": "Minimis Distribution",
     "type": "drupal-profile",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "John Ouellet",
-            "email": "john@thinktandem.io",
-            "homepage": "https://thinktandem.io",
+            "email": "labboy0276@yahoo.com",
             "role": "Developer"
         }
     ],
@@ -18,7 +17,7 @@
         },
         {
             "type": "git",
-            "url": "https://github.com/thinktandem/bootstrap"
+            "url": "https://github.com/labboy0276/bootstrap"
         },
         {
             "type": "composer",
@@ -39,9 +38,9 @@
         "drupal/config_readonly": "^1.0",
         "drupal/config_rewrite": "^1.4",
         "drupal/config_split": "^2.0",
-        "drupal/core-composer-scaffold": "~9.3",
-        "drupal/core-recommended": "~9.3",
-        "drupal/core-vendor-hardening": "~9.3",
+        "drupal/core-composer-scaffold": "~9.4",
+        "drupal/core-recommended": "~9.4",
+        "drupal/core-vendor-hardening": "~9.4",
         "drupal/ctools": "^3.0",
         "drupal/embed": "^1.0",
         "drupal/entity_browser": "^2.0",
@@ -64,12 +63,12 @@
         "drupal/token_filter": "^1.1",
         "drush/drush": "^11.0",
         "oomphinc/composer-installers-extender": "^2.0",
-        "thinktandem/bootstrap": "dev-master",
+        "labboy0276/bootstrap": "dev-master",
         "webmozart/path-util": "^2.0",
         "zaporylie/composer-drupal-optimizations": "^1.0"
     },
     "require-dev": {
-        "drupal/core-dev": "~9.3"
+        "drupal/core-dev": "~9.4"
     },
     "conflict": {
         "drupal/drupal": "*"

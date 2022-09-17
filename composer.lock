@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e4608f8fcc82dd010c89ee85e97a3f23",
+    "content-hash": "d8248efb52148f851ce984e0affd3205",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4288,6 +4288,29 @@
             "time": "2022-06-20T21:43:03+00:00"
         },
         {
+            "name": "labboy0276/bootstrap",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/labboy0276/bootstrap",
+                "reference": "c39537cf7908bf0c487263ca6932141161479027"
+            },
+            "default-branch": true,
+            "type": "drupal-library",
+            "license": [
+                "GPL-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "John Ouellet",
+                    "email": "labboy0276@yahoo.com"
+                }
+            ],
+            "description": "Bootstrap 4.4.1",
+            "homepage": "https://github.com/labboy0276/bootstrap",
+            "time": "2022-09-17T13:15:52+00:00"
+        },
+        {
             "name": "laminas/laminas-diactoros",
             "version": "2.11.3",
             "source": {
@@ -8250,29 +8273,6 @@
                 }
             ],
             "time": "2022-08-02T15:47:23+00:00"
-        },
-        {
-            "name": "thinktandem/bootstrap",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/thinktandem/bootstrap",
-                "reference": "63e2bd1807116717456da1d0a452990816a387fa"
-            },
-            "default-branch": true,
-            "type": "drupal-library",
-            "license": [
-                "GPL-2.0"
-            ],
-            "authors": [
-                {
-                    "name": "John Ouellet",
-                    "email": "john@thinktandem.io"
-                }
-            ],
-            "description": "Bootstrap 4.4.1",
-            "homepage": "https://github.com/thinktandem/bootstrap",
-            "time": "2020-04-27T22:57:53+00:00"
         },
         {
             "name": "twbs/bootstrap",
@@ -12432,7 +12432,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "thinktandem/bootstrap": 20
+        "labboy0276/bootstrap": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
