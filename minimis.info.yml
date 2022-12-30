@@ -32,9 +32,7 @@ dependencies:
   - drupal:options
   - drupal:path
   - drupal:page_cache
-  - drupal:quickedit
   - drupal:taxonomy
-  - drupal:rdf
   - drupal:search
   - drupal:shortcut
   - drupal:toolbar
