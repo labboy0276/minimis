@@ -10,6 +10,7 @@ dependencies:
   # Core modules
   - drupal:block
   - drupal:block_content
+  - drupal:ckeditor5
   - drupal:config
   - drupal:comment
   - drupal:contextual

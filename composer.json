@@ -44,7 +44,7 @@
         "drupal/imageapi_optimize": "^4.0",
         "drupal/imageapi_optimize_resmushit": "^2.0",
         "drupal/layout_builder_restrictions": "^2.17",
-        "drupal/lazy": "8.x-3.x-dev",
+        "drupal/lazy": "3.x-dev",
         "drupal/metatag": "^1.22",
         "drupal/paragraphs": "^1.15",
         "drupal/pathauto": "^1.11",
@@ -75,7 +75,8 @@
             "composer/installers": true,
             "zaporylie/composer-drupal-optimizations": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
-            "oomphinc/composer-installers-extender": true
+            "oomphinc/composer-installers-extender": true,
+            "phpstan/extension-installer": true
         }
     },
     "autoload": {
