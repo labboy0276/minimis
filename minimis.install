@@ -68,7 +68,7 @@ function minimis_themes_setup(array &$install_state) {
   // Set the admin theme.
   \Drupal::configFactory()
     ->getEditable('system.theme')
-    ->set('admin', 'adminimal_theme')
+    ->set('admin', 'gin')
     ->save();
 
   // Set the admin theme for edit and adding content.
