@@ -39,23 +39,15 @@ dependencies:
   - drupal:views_ui
 
   # Contrib modules
-  - admin_toolbar:admin_toolbar
-  - adminimal_admin_toolbar:adminimal_admin_toolbar
   - big_pipe_sessionless:big_pipe_sessionless
   - bootstrap_library:bootstrap_library
   - config_rewrite:config_rewrite
   - ctools:ctools
-  - embed:embed
-  - entity_browser:entity_browser
-  - entity_embed:entity_embed
   - google_analytics:google_analytics
   - imageapi_optimize:imageapi_optimize
   - imageapi_optimize_resmushit:imageapi_optimize_resmushit
-  - inline_entity_form:inline_entity_form
   - layout_builder_restrictions:layout_builder_restrictions
   - lazy:lazy
-  - linkit:linkit
-  - media_entity_browser:media_entity_browser
   - metatag:metatag
   - metatag:metatag_dc
   - metatag:metatag_open_graph

@@ -45,6 +45,8 @@
         "drupal/embed": "^1.0",
         "drupal/entity_browser": "^2.0",
         "drupal/entity_embed": "^1.0",
+        "drupal/gin": "^3.0@RC",
+        "drupal/gin_toolbar": "^1.0@RC",
         "drupal/google_analytics": "^3.0",
         "drupal/imageapi_optimize": "^4.0",
         "drupal/imageapi_optimize_resmushit": "^2.0",
@@ -62,8 +64,8 @@
         "drupal/token": "^1.0",
         "drupal/token_filter": "^1.1",
         "drush/drush": "^11.0",
-        "oomphinc/composer-installers-extender": "^2.0",
         "labboy0276/bootstrap": "dev-master",
+        "oomphinc/composer-installers-extender": "^2.0",
         "webmozart/path-util": "^2.0",
         "zaporylie/composer-drupal-optimizations": "^1.0"
     },
@@ -84,7 +86,8 @@
             "composer/installers": true,
             "zaporylie/composer-drupal-optimizations": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
-            "oomphinc/composer-installers-extender": true
+            "oomphinc/composer-installers-extender": true,
+            "phpstan/extension-installer": true
         }
     },
     "autoload": {
