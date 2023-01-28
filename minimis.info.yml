@@ -48,7 +48,6 @@ dependencies:
   - imageapi_optimize:imageapi_optimize
   - imageapi_optimize_resmushit:imageapi_optimize_resmushit
   - layout_builder_restrictions:layout_builder_restrictions
-  - lazy:lazy
   - metatag:metatag
   - metatag:metatag_dc
   - metatag:metatag_open_graph
