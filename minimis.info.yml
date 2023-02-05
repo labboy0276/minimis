@@ -40,6 +40,7 @@ dependencies:
   - drupal:views_ui
 
   # Contrib modules
+  - admin_toolbar:admin_toolbar
   - big_pipe_sessionless:big_pipe_sessionless
   - bootstrap_library:bootstrap_library
   - config_rewrite:config_rewrite

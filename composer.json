@@ -29,6 +29,7 @@
         "bower-asset/lazysizes": "^5.2",
         "composer/installers": "^2.1",
         "cweagans/composer-patches": "^1.7",
+        "drupal/admin_toolbar": "^3.3",
         "drupal/big_pipe_sessionless": "^2.1",
         "drupal/bootstrap_barrio": "5.1.*",
         "drupal/bootstrap_library": "^2.0",
