@@ -53,7 +53,7 @@
         "drupal/simple_sitemap": "^4.1",
         "drupal/token": "^1.13",
         "drupal/token_filter": "^2.1",
-        "drush/drush": "^11.4",
+        "drush/drush": "^12.4",
         "labboy0276/bootstrap": "dev-master",
         "oomphinc/composer-installers-extender": "^2.0",
         "zaporylie/composer-drupal-optimizations": "^1.2"
