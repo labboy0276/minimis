@@ -45,7 +45,6 @@ dependencies:
   - bootstrap_library:bootstrap_library
   - config_rewrite:config_rewrite
   - ctools:ctools
-  - google_analytics:google_analytics
   - imageapi_optimize:imageapi_optimize
   - imageapi_optimize_resmushit:imageapi_optimize_resmushit
   - layout_builder_restrictions:layout_builder_restrictions
